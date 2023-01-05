@@ -291,7 +291,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="resultLabel" destination="Z0k-sX-nXa" id="0dY-Yc-2wU"/>
+                        <outlet property="display" destination="Z0k-sX-nXa" id="0dY-Yc-2wU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
